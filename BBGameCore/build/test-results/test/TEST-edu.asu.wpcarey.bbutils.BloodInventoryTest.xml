@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.asu.wpcarey.bbutils.BloodInventoryTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-01-31T07:36:56" hostname="f45c89aa7253.ant.amazon.com" time="0.007">
+  <properties/>
+  <testcase name="testRemoveFromInventory" classname="edu.asu.wpcarey.bbutils.BloodInventoryTest" time="0.004"/>
+  <testcase name="testAddBloodWithDifferentLife" classname="edu.asu.wpcarey.bbutils.BloodInventoryTest" time="0.0"/>
+  <testcase name="testInvalidBloodInventory" classname="edu.asu.wpcarey.bbutils.BloodInventoryTest" time="0.0"/>
+  <testcase name="testAddEmptyInventory" classname="edu.asu.wpcarey.bbutils.BloodInventoryTest" time="0.001"/>
+  <testcase name="testAddToInventory" classname="edu.asu.wpcarey.bbutils.BloodInventoryTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ERROR StatusLogger No log4j2 configuration file found. Using default configuration: logging only errors to the console.
+]]></system-err>
+</testsuite>

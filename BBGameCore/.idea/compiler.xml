@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="bbgamecore_main" target="1.8" />
+      <module name="bbgamecore_test" target="1.8" />
+      <module name="bbgamedataaccess_main" target="1.8" />
+      <module name="bbgamedataaccess_test" target="1.8" />
+      <module name="bbgameservice_main" target="1.5" />
+      <module name="bbgameservice_test" target="1.5" />
+      <module name="bbgametypes_main" target="1.8" />
+      <module name="bbgametypes_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

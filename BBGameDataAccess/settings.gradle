@@ -1,0 +1,5 @@
+rootProject.name = 'bbgamedataaccess'
+
+include 'bbgametypes'
+project(':bbgametypes').projectDir = new File('../BBGameTypes')
+

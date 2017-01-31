@@ -1,0 +1,9 @@
+rootProject.name = 'bbgameservice'
+
+include 'bbgamecore'
+project(':bbgamecore').projectDir = new File('../BBGameCore')
+include 'bbgamedataaccess'
+project(':bbgamedataaccess').projectDir = new File('../BBGameDataAccess')
+include 'bbgametypes'
+project(':bbgametypes').projectDir = new File('../BBGameTypes')
+

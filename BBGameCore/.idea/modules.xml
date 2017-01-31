@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2053588653/bbgamecore.iml" filepath="$PROJECT_DIR$/.idea/modules/2053588653/bbgamecore.iml" group="bbgamecore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2053588653/bbgamecore_main.iml" filepath="$PROJECT_DIR$/.idea/modules/2053588653/bbgamecore_main.iml" group="bbgamecore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2053588653/bbgamecore_test.iml" filepath="$PROJECT_DIR$/.idea/modules/2053588653/bbgamecore_test.iml" group="bbgamecore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/80564764/bbgamedataaccess.iml" filepath="$PROJECT_DIR$/.idea/modules/80564764/bbgamedataaccess.iml" group="bbgamedataaccess" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/80564764/bbgamedataaccess_main.iml" filepath="$PROJECT_DIR$/.idea/modules/80564764/bbgamedataaccess_main.iml" group="bbgamedataaccess" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/80564764/bbgamedataaccess_test.iml" filepath="$PROJECT_DIR$/.idea/modules/80564764/bbgamedataaccess_test.iml" group="bbgamedataaccess" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bbgameservice.iml" filepath="$PROJECT_DIR$/.idea/modules/bbgameservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bbgameservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bbgameservice_main.iml" group="bbgameservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bbgameservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bbgameservice_test.iml" group="bbgameservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-747265237/bbgametypes.iml" filepath="$PROJECT_DIR$/.idea/modules/-747265237/bbgametypes.iml" group="bbgametypes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-747265237/bbgametypes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-747265237/bbgametypes_main.iml" group="bbgametypes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-747265237/bbgametypes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-747265237/bbgametypes_test.iml" group="bbgametypes" />
+    </modules>
+  </component>
+</project>
